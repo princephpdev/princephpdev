@@ -4,8 +4,7 @@
 <a href="https://www.linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 -->
-<p align="center"><a href="https://www.buymeacoffee.com/princek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
+<p align="center"><a href="https://www.buymeacoffee.com/princek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
 <!--
 <p align="center"><img src="https://komarev.com/ghpvc/?username=princephpdev&style=flat-square&color=blue" alt=""></p>
 -->
@@ -83,6 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=princephpdev&theme=algolia)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=princephpdev&theme=swift)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princephpdev&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princephpdev&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
