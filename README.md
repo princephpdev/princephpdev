@@ -5,17 +5,12 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=princephpdev&style=flat-square&color=blue" alt=""></p>
 -->
 
-### Hey Devs, I'm Prince K <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Hey, I'm Prince K
 
----
-
-### :man_technologist: &nbsp;About Me :
-
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am :man_technologist: Full Stack Developer from India.
 
 - 🔭 I’m working as a Senior Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring DevOPs & Cloud Computing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to reach me: &nbsp; [![Gmail Badge](https://img.shields.io/badge/-princephpdev-red?style=flat&logo=Gmail&logoColor=white)](mailto:princephpdev@gmail.com)
 - ⚡ Fun fact: I am non-IT Graduate, yet a full-fledged Programmer by passion
 
